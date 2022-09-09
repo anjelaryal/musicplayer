@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="shuffle_btn">Shuffle</string>
+    <string name="favourites_btn">Favourites</string>
+    <string name="playlist_btn">Play Lists</string>
+    <string name="total_songs">Total Songs</string>
+    <string name="np">Now Playing</string>
+    <string name="song_name">Song Name</string>
+    <string name="back_btn">Back</string>
+    <string name="time_now">1:11</string>
+    <string name="total_length">1:11</string>
+    <string name="repeat">Repeat</string>
+    <string name="timer">Timer</string>
+    <string name="share">Share</string>
+
+</resources>
